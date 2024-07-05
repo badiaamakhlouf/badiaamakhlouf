@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 -->
 
 Greetings! I'm Badiaa Makhlouf, a Data Scientist with a foundation in software engineering. I completed my Master of Science in [ICT for Smart Societies](https://www.polito.it/en/education/master-s-degree-programmes/ict-for-smart-societies) at Politecnico di Torino and boast over 5 years of hands-on experience in the realms of Data Science and Machine Learning.
+
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/badiaa-m-b77032116/)
+&nbsp;
+[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/badiaamakhlouf)
