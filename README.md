@@ -23,7 +23,7 @@ I'm Badiaa Makhlouf, a Data Scientist with a foundation in software engineering.
 I have a passion for sharing knowledge and helping others learn. This drives me to write blogs on [Medium](https://medium.com/@badiaa-makhlouf), participate in [Kaggle](https://www.kaggle.com/badiaamakhlouf) competitions, and create projects on [GitHub](https://github.com/badiaamakhlouf) that simplify the complexities of data, making it approachable for everyone. My goal is to support beginners in the field and inspire them to continually learn and develop their skills, while also enhancing my own expertise.
 
 Additionally, I plan to write more about advanced topics and techniques in Data Science and Machine Learning over time, aiming to delve deeper into cutting-edge methodologies and contribute to the broader knowledge base of the field.
-### 🌎 Social Channels 
+### Social Channels 🌏
 <div id="badges">
   <a href="https://github.com/badiaamakhlouf">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
@@ -39,5 +39,7 @@ Additionally, I plan to write more about advanced topics and techniques in Data 
   </a>
 </div>
 
-### 🚀 Technology Toolkit
+### Technology Toolkit 🚀
 https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+
+### Current GitHub Stats 📊
