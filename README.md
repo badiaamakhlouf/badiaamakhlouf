@@ -43,3 +43,6 @@ Additionally, I plan to write more about advanced topics and techniques in Data 
 https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 
 ### Current GitHub Stats 📊
+
+[![](https://visitcount.itsvg.in/api?id=badiaamakhlouf&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
