@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 Greetings! 👋 
 
 I'm Badiaa Makhlouf, a Data Scientist with a foundation in software engineering. I completed my Master of Science in [ICT for Smart Societies](https://www.polito.it/en/education/master-s-degree-programmes/ict-for-smart-societies) at Politecnico di Torino and boast over 5 years of hands-on experience in the realms of Data Science and Machine Learning.
+
+I have a passion for sharing knowledge and helping others learn. This drives me to write blogs on Medium, participate in Kaggle competitions, and create projects on GitHub that simplify the complexities of data, making it approachable for everyone. My goal is to support beginners in the field and inspire them to continually learn and develop their skills, while also enhancing my own expertise.
 ### 🌎 Social Channels 
 <div id="badges">
   <a href="https://github.com/badiaamakhlouf">
