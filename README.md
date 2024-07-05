@@ -28,7 +28,7 @@ I'm Badiaa Makhlouf, a Data Scientist with a foundation in software engineering.
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://medium.com/@badiaa-makhlouf">
-    <img src="[https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=twitter&logoColor=white](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)" alt="Medium Badge"/>
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
   <a href="https://www.kaggle.com/badiaamakhlouf">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
