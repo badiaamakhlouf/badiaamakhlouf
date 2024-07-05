@@ -33,6 +33,3 @@ Greetings! I'm Badiaa Makhlouf, a Data Scientist with a foundation in software e
   </a>
 </div>
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/badiaa-m-b77032116/)
-&nbsp;
-[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/badiaamakhlouf)
