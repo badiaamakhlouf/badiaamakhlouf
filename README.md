@@ -1,4 +1,4 @@
-## Hi there👋, here's my bio
+## Here's my bio 🎯
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
 
 <!--
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Badiaa Makhlouf, and I am a Data Scientist with a background in software engineering. I earned my Master of Science in [ICT for Smart Societies](https://www.polito.it/en/education/master-s-degree-programmes/ict-for-smart-societies) from the Politecnico di Torino. I currently have over 5 years of experience in the Data Science and Machine Learning fields.
+Greetings! I'm Badiaa Makhlouf, a Data Scientist with a foundation in software engineering. I completed my Master of Science in [ICT for Smart Societies](https://www.polito.it/en/education/master-s-degree-programmes/ict-for-smart-societies) at Politecnico di Torino and boast over 5 years of hands-on experience in the realms of Data Science and Machine Learning.
