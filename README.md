@@ -1,4 +1,4 @@
-## Here's my bio 🎯
+## 💬 Here's my bio 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
 
 <!--
@@ -25,7 +25,7 @@ I'm Badiaa Makhlouf, a Data Scientist with a foundation in software engineering.
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/badiaamakhlouf">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
   <a href="https://medium.com/@badiaa-makhlouf">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
