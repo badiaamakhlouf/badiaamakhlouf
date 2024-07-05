@@ -26,7 +26,7 @@ Additionally, I plan to write more about advanced topics and techniques in Data 
 ### 🌎 Social Channels 
 <div id="badges">
   <a href="https://github.com/badiaamakhlouf">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-jhrcook-181717.svg?style=flat&logo=github)" alt="Github Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/badiaa-m-b77032116/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -40,3 +40,4 @@ Additionally, I plan to write more about advanced topics and techniques in Data 
 </div>
 
 ### 🚀 Technology Toolkit
+https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
