@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello 👋, here's some information about myself
+![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
 
 <!--
 **badiaamakhlouf/badiaamakhlouf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
