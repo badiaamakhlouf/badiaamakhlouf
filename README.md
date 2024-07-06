@@ -24,6 +24,9 @@ I have a passion for sharing knowledge and helping others learn. This drives me 
 
 Additionally, I plan to write more about advanced topics and techniques in Data Science and Machine Learning over time, aiming to delve deeper into cutting-edge methodologies and contribute to the broader knowledge base of the field.
 ## 🌏 Social Channels 
+Here are the social channels I am active on. I would love to connect with and follow others who share the same passion for data science, machine learning, and AI.
+Let's exchange ideas, collaborate on projects, and grow together in this exciting field! 🥰 🥳
+
 <div id="badges">
   <a href="https://github.com/badiaamakhlouf">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
@@ -92,6 +95,7 @@ Throughout my 5+ years of experience, I have worked with each technology and pro
 
 ## 📚 Learning Platforms on My Journey
 To enhance my skills in data science, machine learning, and AI, I use various platforms that offer up-to-date and comprehensive courses tailored for both beginners and experts. These platforms help me continuously improve my hard and soft skills. These platforms include: 
+
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
