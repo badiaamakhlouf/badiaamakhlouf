@@ -39,8 +39,8 @@ Additionally, I plan to write more about advanced topics and techniques in Data 
   </a>
 </div>
 
-### Tech Stack 🚀
-Throughout my 5+ years of experience, I have worked with each technology and programming language listed in the following tech stack. I am always eager to learn more and expand my expertise. 🙌🏻 🎯💡
+### Tech Stack 🚀 💡
+Throughout my 5+ years of experience, I have worked with each technology and programming language listed in the following tech stack. I am always eager to learn more and expand my expertise. 🙌🏻 🎯
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
