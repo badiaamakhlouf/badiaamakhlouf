@@ -39,7 +39,7 @@ Additionally, I plan to write more about advanced topics and techniques in Data 
   </a>
 </div>
 
-### Technology Toolkit 🚀
+### Tech Stack 🚀
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -82,7 +82,13 @@ Additionally, I plan to write more about advanced topics and techniques in Data 
 ### Current GitHub Stats 📊
 
 
-
-
 [![](https://visitcount.itsvg.in/api?id=badiaamakhlouf&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+### Learning Platforms on My Journey
+To enhance my skills in data science, machine learning, and AI, I use various platforms that offer up-to-date and comprehensive courses tailored for both beginners and experts. These platforms help me continuously improve my hard and soft skills. These platforms include: 
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)
+![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 
