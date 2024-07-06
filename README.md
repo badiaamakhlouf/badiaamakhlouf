@@ -23,7 +23,7 @@ I'm Badiaa Makhlouf, a Data Scientist with a foundation in software engineering.
 I have a passion for sharing knowledge and helping others learn. This drives me to write blogs on [Medium](https://medium.com/@badiaa-makhlouf), participate in [Kaggle](https://www.kaggle.com/badiaamakhlouf) competitions, and create projects on [GitHub](https://github.com/badiaamakhlouf) that simplify the complexities of data, making it approachable for everyone. My goal is to support beginners in the field and inspire them to continually learn and develop their skills, while also enhancing my own expertise.
 
 Additionally, I plan to write more about advanced topics and techniques in Data Science and Machine Learning over time, aiming to delve deeper into cutting-edge methodologies and contribute to the broader knowledge base of the field.
-### Social Channels 🌏
+## 🌏 Social Channels 
 <div id="badges">
   <a href="https://github.com/badiaamakhlouf">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
@@ -39,7 +39,7 @@ Additionally, I plan to write more about advanced topics and techniques in Data 
   </a>
 </div>
 
-### Tech Stack 🚀 💡
+## 🚀 Tech Stack 
 Throughout my 5+ years of experience, I have worked with each technology and programming language listed in the following tech stack. I am always eager to learn more and expand my expertise. 🙌🏻 🎯
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -85,12 +85,12 @@ Throughout my 5+ years of experience, I have worked with each technology and pro
 ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
-### Current GitHub Stats 📊
+## 📊 Current GitHub Stats 
 
 
 [![](https://visitcount.itsvg.in/api?id=badiaamakhlouf&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
-### Learning Platforms on My Journey
+## 📚 Learning Platforms on My Journey
 To enhance my skills in data science, machine learning, and AI, I use various platforms that offer up-to-date and comprehensive courses tailored for both beginners and experts. These platforms help me continuously improve my hard and soft skills. These platforms include: 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)
