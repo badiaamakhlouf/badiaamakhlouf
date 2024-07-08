@@ -41,7 +41,7 @@ Let's exchange ideas, collaborate on projects, and grow together in this excitin
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/10863083/baddy">
-    <img src="https://img.shields.io/stackexchange/stackoverflow/r/<user_id>?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge&cacheSeconds=86400" alt="Stackoverflow Badge"/>
+    <img src="https://img.shields.io/stackexchange/stackoverflow/r/<user_id>?color=orange&label=Stackoverflow&logo=stackoverflow&style=for-the-badge&cacheSeconds=86400" alt="Stackoverflow Badge"/>
   </a>
 </div>
 
