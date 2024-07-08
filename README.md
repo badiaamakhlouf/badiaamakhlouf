@@ -40,7 +40,11 @@ Let's exchange ideas, collaborate on projects, and grow together in this excitin
   <a href="https://www.kaggle.com/badiaamakhlouf">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
+  <a href="https://stackoverflow.com/users/10863083/baddy">
+    <img src="https://img.shields.io/stackexchange/stackoverflow/r/<user_id>?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge" alt="Stack Overflow"/>
+  </a>
 </div>
+
 
 ## 🚀 Tech Stack 
 Throughout my 5+ years of experience, I have worked with each technology and programming language listed in the following tech stack. I am always eager to learn more and expand my expertise. 🙌🏻 🎯
