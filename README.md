@@ -45,9 +45,6 @@ Let's exchange ideas, collaborate on projects, and grow together in this excitin
   </a>
 </div>
 
-[![<user_name>'s Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/<user_id>?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/<user_id> "<user_name>'s Stack Overflow Reputation")
-
-
 
 ## 🚀 Tech Stack 
 Throughout my 5+ years of experience, I have worked with each technology and programming language listed in the following tech stack. I am always eager to learn more and expand my expertise. 🙌🏻 🎯
