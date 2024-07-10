@@ -101,9 +101,9 @@ Throughout my 5+ years of experience, I have worked with each technology and pro
 ## 📚 Learning Platforms on My Journey
 To enhance my skills in data science, machine learning, and AI, I use various platforms that offer up-to-date and comprehensive courses tailored for both beginners and experts. These platforms help me continuously improve my hard and soft skills. These platforms include: 
 
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)
-![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=Udemy&logoColor=white)
+![Udacity](https://img.shields.io/badge/Udacity-grey?logo=udacity&logoColor=15B8E6)
+![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?logo=geeksforgeeks&logoColor=35914c)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&logo=freecodecamp&logoColor=green)
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?logo=Coursera&logoColor=white)
 
