@@ -1,5 +1,5 @@
 ## ✨ About Me
-![Badiaa Makhlouf](https://img.shields.io/badge/Author-Badiaa%20Makhlouf-green)
+![Badiaa Makhlouf](https://img.shields.io/badge/Author-Badiaa%20Makhlouf-blue)
 ![](https://komarev.com/ghpvc/?username=your-github-badiaamakhlouf&color=green)
 ![](https://img.shields.io/stackexchange/stackoverflow/r/10863083?color=orange&label=reputation&logo=stackoverflow)
 [![Follow](https://img.shields.io/github/followers/badiaamakhlouf?label=Follow&style=social)](https://github.com/badiaamakhlouf)
