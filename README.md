@@ -1,6 +1,8 @@
 ## ✨ About Me
+![Badiaa Makhlouf](https://img.shields.io/badge/Author-Badiaa%20Makhlouf-green)
 ![](https://komarev.com/ghpvc/?username=your-github-badiaamakhlouf&color=green)
 ![](https://img.shields.io/stackexchange/stackoverflow/r/10863083?color=orange&label=reputation&logo=stackoverflow)
+[![Follow](https://img.shields.io/github/followers/badiaamakhlouf?label=Follow&style=social)](https://github.com/badiaamakhlouf)
 
 <!--
 **badiaamakhlouf/badiaamakhlouf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
