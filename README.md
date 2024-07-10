@@ -1,6 +1,7 @@
 ## ✨ About Me
 ![](https://komarev.com/ghpvc/?username=your-github-badiaamakhlouf&color=green)
 ![](https://img.shields.io/stackexchange/stackoverflow/r/10863083?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge)
+![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6&style=flat)
 
 <!--
 **badiaamakhlouf/badiaamakhlouf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,9 +42,7 @@ Let's exchange ideas, collaborate on projects, and grow together in this excitin
   <a href="https://www.kaggle.com/badiaamakhlouf">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
-  <a href="https://stackoverflow.com/users/10863083/baddy">
-    <img src="https://img.shields.io/stackexchange/stackoverflow/r/10863083?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge" alt="Stackoverflow Badge"/>
-  </a>
+  
 </div>
 
 
