@@ -95,7 +95,6 @@ Throughout my 5+ years of experience, I have worked with each technology and pro
 
 ## 📊 Current GitHub Stats 
 
-
 [![](https://visitcount.itsvg.in/api?id=badiaamakhlouf&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ## 📚 Learning Platforms on My Journey
