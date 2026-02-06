@@ -18,14 +18,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Greetings! 👋
+I’m Badiaa Makhlouf, a Data Scientist with a strong foundation in software engineering and a deep interest in Machine Learning, Generative AI, and production-ready AI systems. I hold a Master of Science in [ICT for Smart Societies](https://www.polito.it/en/education/master-s-degree-programmes/ict-for-smart-societies) from Politecnico di Torino and bring over 7 years of hands-on experience building data-driven solutions across the end-to-end ML lifecycle.
 
-Greetings! 👋 
+My work spans data analysis, feature engineering, model development, evaluation, and deployment, with growing focus on MLOps, scalable ML systems, and GenAI applications. I enjoy transforming raw, complex data into meaningful insights and robust models that can be reliably used in real-world settings.
+I’m passionate about knowledge sharing and continuous learning. To that end, I write technical blogs on [Medium](https://medium.com/@badiaa-makhlouf), participate in (https://www.kaggle.com/badiaamakhlouf) competitions, and maintain [GitHub](https://github.com/badiaamakhlouf) repositories that explore practical Data Science, Machine Learning, and AI concepts—from foundational techniques to more advanced use cases. My aim is to make AI more accessible to beginners while continuously sharpening my own skills.
+Going forward, I plan to write more about advanced ML techniques, Generative AI, LLM-based systems, and MLOps best practices, sharing practical insights from both experimentation and real-world projects, and contributing to the evolving AI ecosystem.
 
-I'm Badiaa Makhlouf, a Data Scientist with a foundation in software engineering. I completed my Master of Science in [ICT for Smart Societies](https://www.polito.it/en/education/master-s-degree-programmes/ict-for-smart-societies) at Politecnico di Torino and boast over 5 years of hands-on experience in the realms of Data Science and Machine Learning.
-
-I have a passion for sharing knowledge and helping others learn. This drives me to write blogs on [Medium](https://medium.com/@badiaa-makhlouf), participate in [Kaggle](https://www.kaggle.com/badiaamakhlouf) competitions, and create projects on [GitHub](https://github.com/badiaamakhlouf) that simplify the complexities of data, making it approachable for everyone. My goal is to support beginners in the field and inspire them to continually learn and develop their skills, while also enhancing my own expertise.
-
-Additionally, I plan to write more about advanced topics and techniques in Data Science and Machine Learning over time, aiming to delve deeper into cutting-edge methodologies and contribute to the broader knowledge base of the field.
 ## 🌏 Social Channels 
 Here are the social channels I am active on. I would love to connect with and follow others who share the same passion for data science, machine learning, and AI.
 Let's exchange ideas, collaborate on projects, and grow together in this exciting field! 🥰 🥳
