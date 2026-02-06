@@ -22,7 +22,9 @@ Greetings! 👋
 I’m Badiaa Makhlouf, a Data Scientist with a strong foundation in software engineering and a deep interest in Machine Learning, Generative AI, and production-ready AI systems. I hold a Master of Science in [ICT for Smart Societies](https://www.polito.it/en/education/master-s-degree-programmes/ict-for-smart-societies) from Politecnico di Torino and bring over 7 years of hands-on experience building data-driven solutions across the end-to-end ML lifecycle.
 
 My work spans data analysis, feature engineering, model development, evaluation, and deployment, with growing focus on MLOps, scalable ML systems, and GenAI applications. I enjoy transforming raw, complex data into meaningful insights and robust models that can be reliably used in real-world settings.
+
 I’m passionate about knowledge sharing and continuous learning. To that end, I write technical blogs on [Medium](https://medium.com/@badiaa-makhlouf), participate in [Kaggle](https://www.kaggle.com/badiaamakhlouf) competitions, and maintain [GitHub](https://github.com/badiaamakhlouf) repositories that explore practical Data Science, Machine Learning, and AI concepts—from foundational techniques to more advanced use cases. My aim is to make AI more accessible to beginners while continuously sharpening my own skills.
+
 Going forward, I plan to write more about advanced ML techniques, Generative AI, LLM-based systems, and MLOps best practices, sharing practical insights from both experimentation and real-world projects, and contributing to the evolving AI ecosystem.
 
 ## 🌏 Social Channels 
