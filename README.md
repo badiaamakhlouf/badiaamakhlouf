@@ -35,7 +35,7 @@ Let's exchange ideas, collaborate on projects, and grow together in this excitin
   <a href="https://github.com/badiaamakhlouf">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/badiaa-m-b77032116/">
+  <a href="https://www.linkedin.com/in/badiaa-makhlouf-b77032116/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://medium.com/@badiaa-makhlouf">
